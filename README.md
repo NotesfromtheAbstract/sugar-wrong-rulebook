@@ -1,6 +1,6 @@
 # The Wrong Rulebook: Sugar, Diabetes, and the Limits of Kennedy's Argument
 
-Supporting data and code for the *Notes from the Abstract* article "The Wrong Rulebook," published March 2026.
+Supporting data and code for the *Notes from the Abstracts* article "The Wrong Rulebook," published March 2026.
 
 ## What This Repository Contains
 
